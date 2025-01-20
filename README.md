@@ -94,3 +94,8 @@ Any client can instantly see messages sent out by other clients.
 Example output from a client: Hello, Client 1!
 Conclusion
 This project shows a practical hands-on way that client-server communi-cations and multithreaded program-ming concepts can be explored. The application would be extended on to add functionality such as the ability to share files, introduce private messaging features, or bring in user authorization.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/00c3d448-e815-47b6-ad21-d394ecec9e14)
+![Image](https://github.com/user-attachments/assets/4569e596-27a6-4b89-b2c0-5b8a4d473298)
+![Image](https://github.com/user-attachments/assets/6bd7126a-8960-475f-871d-ad287fa34922)
